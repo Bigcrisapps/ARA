@@ -1,11 +1,11 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1,Tiago 1
-https://audio-cdn.bcdn.in/1/Ricardo/ara/059/001.mp3
-#EXTINF:-1,Tiago 2 
-https://audio-cdn.bcdn.in/1/Ricardo/ara/059/002.mp3
-#EXTINF:-1,Tiago 3 
-https://audio-cdn.bcdn.in/1/Ricardo/ara/059/003.mp3
-#EXTINF:-1,Tiago 4 
-https://audio-cdn.bcdn.in/1/Ricardo/ara/059/004.mp3
-#EXTINF:-1,Tiago 5 
-https://audio-cdn.bcdn.in/1/Ricardo/ara/059/005.mp3
+https://audio-cdn.icdn.in/3/Ricardo/ara/Jas/001/ara-jas-1.mp3
+#EXTINF:-1,Tiago 2
+https://audio-cdn.icdn.in/3/Ricardo/ara/Jas/002/ara-jas-2.mp3
+#EXTINF:-1,Tiago 3
+https://audio-cdn.icdn.in/3/Ricardo/ara/Jas/003/ara-jas-3.mp3
+#EXTINF:-1,Tiago 4
+https://audio-cdn.icdn.in/3/Ricardo/ara/Jas/004/ara-jas-4.mp3
+#EXTINF:-1,Tiago 5
+https://audio-cdn.icdn.in/3/Ricardo/ara/Jas/005/ara-jas-5.mp3
